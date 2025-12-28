@@ -21,7 +21,7 @@
 title: Nick Orangio
 email: norangio@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Data scientist & bioprocess engineer in pharma. Building data pipelines and CMC strategies for biologics and cell therapies.
+  Data scientist & bioprocess engineer in cell therapy and biologics development and manufacturing.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
