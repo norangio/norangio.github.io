@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Career
+layout: single
 permalink: /career/
 nav_order: 2
 ---

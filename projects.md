@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Projects
+layout: single
 permalink: /projects/
 nav_order: 3
 ---
