@@ -6,10 +6,13 @@ layout: single
 nav_order: 1
 
 author_profile: true
-author: nick
 ---
 
-I combine **data science** and **bioprocess engineering** to accelerate biologics and cell therapy development. I build scalable data pipelines, design statistically defensible CMC strategies, and implement digital systems that support R&D through GMP manufacturing and regulatory submissions.
+With 12+ years of experience across biotech startups and global pharma, I specialize in data science, process development, manufacturing, and CMC strategy for biologics and cell therapies. I have led technical initiatives spanning from R&D to GMP clinical and commercial manufacturing, from process development through successful regulatory submissions, with deep experience translating complex data into regulatory-ready CMC strategy.
+
+I bring years of hands-on experience in computational and analytical pipeline development, including next-generation sequencing (NGS) data processing, QC, and analysis workflows supporting cell therapy R&D and manufacturing. This includes designing and maintaining scalable data pipelines, integrating assay, sequencing, and manufacturing data, and applying statistical and computational methods to drive process understanding, comparability, and decision-making.
+
+I also have extensive experience implementing digital and data systems across R&D and manufacturing environments, including cloud platforms, data infrastructures, and advanced analytics, leveraging tools such as AWS, Azure, Databricks, Snowflake, R, Python, and modern data visualization and business intelligence platforms. As a bioprocess engineer and data scientist, I combine technical rigor with computational and digital innovation to strengthen manufacturing strategies and accelerate the delivery of transformative therapies.
 
 ## Current
 **Principal Engineer, Data Science — Cell Therapy Development & Operations** (AstraZeneca) · Sep 2024 – Present  
