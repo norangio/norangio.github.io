@@ -23,7 +23,7 @@ Below is a summary of roles and select responsibilities across biotech startups 
 ## Senior Data Scientist, Cell Therapy R&D
 **Resilience · Oct 2021 – Aug 2024 · San Diego, CA**
 
-- Led a cross-functional R&D team and acted as Product Owner for NGS assay development supporting CAR T-cell manufacturing.
+- Led a cross-functional R&D team as Product Owner and Data Scientist for NGS assay development supporting CAR T-cell manufacturing.
 - Spearheaded single-cell NGS characterization assay development focused on features tied to clinical efficacy.
 - Contributed to regulatory strategy for NGS assays and participated in FDA interactions.
 - Performed bulk and single-cell NGS analysis using R and Python; developed cloud-based bioinformatics pipelines (Nextflow, AWS).
@@ -51,10 +51,13 @@ Below is a summary of roles and select responsibilities across biotech startups 
 ## Technical Services / Manufacturing Science
 **Eli Lilly and Company · 2015 – 2019 · Indianapolis, IN**
 
-- Associate Consultant Scientist / Senior Scientist roles supporting external manufacturing and insulin drug substance operations.
-- Managed CDMO oversight, process monitoring, chromatography resin change projects, and technology transfers.
-- Built regression and statistical models to support specification changes and continuous process verification.
+- Associate Consultant Scientist / Senior Scientist roles supporting commercial external manufacturing and insulin drug substance operations.
+- Managed CDMO oversight, process monitoring, and technology transfers.
+- Built statistical models to support specification changes and continuous process verification.
 - Led cleaning validation and GMP documentation improvements across commercial manufacturing sites.
 
 ---
+
+## Process Engineering
+**Johnson & Johnson · 2012 – 2014 · Cornelia, GA**
 
