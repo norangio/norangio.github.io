@@ -8,7 +8,5 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-// Global font size override
-html {
-  font-size: 10px;
-}
+/* Global scale: theme uses rem, so this scales almost everything */
+html { font-size: 10px; }   /* try 15px or 15.5px */
