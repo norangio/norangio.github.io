@@ -27,10 +27,10 @@ In practice, that means designing appropriate statistical frameworks, building s
 - Led process data science and statistical strategy for late-stage cell therapy programs, including multiple FDA-accepted comparability assessments, supporting IND amendments and regulatory submissions.
 - Designed and applied statistical frameworks tailored to cell therapy manufacturing constraints, including variance decomposition to quantify donor-to-donor variability and enable confident decision-making under small-sample conditions.
 - Built end-to-end analytics workflows spanning experimental data ingestion, manufacturing data integration, and downstream analysis using Python, R, SQL, Snowflake, Databricks, and AWS, improving consistency and visibility across programs.
-- Served as Product Owner and Senior Data Scientist for the development of next-generation NGS and cloud basedbioinformatics pipelines, leading cross-functional R&D teams to the successful development of multiple bulk and single-cell NGS assays.
+- Served as Product Owner and Senior Data Scientist for the development of next-generation NGS and cloud based bioinformatics pipelines, leading cross-functional R&D teams to the successful development of multiple bulk and single-cell NGS assays.
 - Provided technical leadership in commercial biologics manufacturing, including oversight of outsourced GMP drug substance production, CDMO management, process monitoring, validation readiness, and execution of change controls for high-volume, revenue-critical products.
 
 
 ## Projects & Writing
-I write occasionally about applied analytics, manufacturing data strategy, and other topics I find interesting, including work at the intersection of data, decision-making, and complex systems. See my [projects](/projects/) for examples.
+I write occasionally about applied analytics, manufacturing data strategy, and other topics I find interesting, including work at the intersection of data, decision-making, and complex systems. See my [work & writing](/work/) for examples.
 
