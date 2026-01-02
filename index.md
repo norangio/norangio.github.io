@@ -4,6 +4,9 @@
 
 layout: home
 nav_order: 1
+
+author_profile: true
+author: nick
 ---
 
 I combine **data science** and **bioprocess engineering** to accelerate biologics and cell therapy development. I build scalable data pipelines, design statistically defensible CMC strategies, and implement digital systems that support R&D through GMP manufacturing and regulatory submissions.

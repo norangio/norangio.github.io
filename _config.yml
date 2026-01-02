@@ -54,3 +54,20 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+## Define author profiles for use in posts and pages
+author:
+  name   : "Nick Orangio"
+  avatar : ""
+  bio    : "Principal Engineer, Data Science (Cell Therapy). I build manufacturing analytics, pipelines, and CMC-ready stats."
+  location: "San Diego, CA"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:norangio@gmail.com"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/nick-orangio/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/norangio"
