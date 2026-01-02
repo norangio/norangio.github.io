@@ -6,8 +6,6 @@ permalink: /career/
 nav_order: 2
 ---
 
-# Career
-
 Below is a summary of roles and select responsibilities across biotech startups and global pharma.
 
 ## Principal Engineer, Data Science — Cell Therapy Development & Operations

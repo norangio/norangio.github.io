@@ -3,12 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Home
 nav_order: 1
-hide_title: true
 ---
-
-
-# Hi — I'm Nick Orangio
 
 I combine **data science** and **bioprocess engineering** to accelerate biologics and cell therapy development. I build scalable data pipelines, design statistically defensible CMC strategies, and implement digital systems that support R&D through GMP manufacturing and regulatory submissions.
 

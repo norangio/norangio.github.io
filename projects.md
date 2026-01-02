@@ -6,8 +6,6 @@ permalink: /projects/
 nav_order: 3
 ---
 
-# Projects
-
 A selection of projects that highlight my work at the intersection of data science and bioprocess engineering.
 
 ## Drug product comparability & statistical analysis (AstraZeneca)
