@@ -32,5 +32,5 @@ In practice, that means designing appropriate statistical frameworks, building s
 
 
 ## Projects & Writing
-I write occasionally about applied analytics, manufacturing data strategy, and other topics I find interesting, including work at the intersection of data, decision-making, and complex systems. See my [work & writing](/work/) for examples.
+I write occasionally about applied analytics, manufacturing data strategy, and other topics I find interesting, including work at the intersection of data, decision-making, and complex systems. See my [writing](/writing/) for examples.
 
