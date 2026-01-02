@@ -20,7 +20,7 @@ Below is a summary of roles and select responsibilities across biotech startups 
 
 ---
 
-## Senior Data Scientist, Cell Therapy R&D
+## Senior Data Scientist — Cell Therapy R&D
 **Resilience · Oct 2021 – Aug 2024 · San Diego, CA**
 
 - Led a cross-functional R&D team as Product Owner and Data Scientist for NGS assay development supporting CAR T-cell manufacturing.
@@ -31,7 +31,7 @@ Below is a summary of roles and select responsibilities across biotech startups 
 
 ---
 
-## Data Scientist, Software Technology Solutions
+## Data Scientist — Software Technology Solutions
 **BD · Feb 2021 – Oct 2021 · San Diego, CA**
 
 - Built software solutions for medical device data analysis and ML-based log file analytics (Databricks, Azure).
@@ -48,7 +48,7 @@ Below is a summary of roles and select responsibilities across biotech startups 
 
 ---
 
-## Technical Services / Manufacturing Science
+## Associate Consultant Scientist, Technical Services / Manufacturing Science — Commercial Recombinant Proteins
 **Eli Lilly and Company · 2015 – 2019 · Indianapolis, IN**
 
 - Associate Consultant Scientist / Senior Scientist roles supporting commercial external manufacturing and insulin drug substance operations.
