@@ -4,6 +4,7 @@
 
 layout: home
 nav_order: 1
+hide_title: true
 ---
 
 
