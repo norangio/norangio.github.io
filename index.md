@@ -32,6 +32,3 @@ I also have extensive experience implementing digital and data systems across R&
 ## Projects & Writing
 I write about applied analytics, reproducible pipelines, and manufacturing data strategy. See my [projects](/projects/) and posts for examples.
 
-## Contact
-- Email: norangio@gmail.com  
-- GitHub: [norangio](https://github.com/norangio)

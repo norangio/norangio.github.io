@@ -58,8 +58,8 @@ plugins:
 ## Define author profiles for use in posts and pages
 author:
   name   : "Nick Orangio"
-  avatar : "/assets/images/headshot.jpg"
-  bio    : "Principal Engineer, Data Science (Cell Therapy). I build manufacturing analytics, pipelines, and CMC-ready stats."
+  avatar : "/assets/images/headshot.jpeg"
+  bio    : "Manufacturing analytics, ML-driven insights, and CMC-ready statistics for biologics and cell therapy."
   location: "San Diego, CA"
   links:
     - label: "Email"
