@@ -55,7 +55,7 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-## Define author profiles for use in posts and pages
+# Define author profiles for use in posts and pages
 author:
   name   : "Nick Orangio"
   avatar : "/assets/images/headshot.jpeg"
@@ -71,3 +71,10 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/norangio"
+
+# Google analytics
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-G0T8VX0CJW"
+    anonymize_ip: true
