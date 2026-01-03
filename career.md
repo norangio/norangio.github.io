@@ -1,12 +1,21 @@
 ---
-layout: page
 title: Career
 layout: single
 permalink: /career/
 nav_order: 2
 ---
 
-Below is a summary of roles and select responsibilities across biotech startups and global pharma.
+Bioprocess engineer and data scientist with twelve years of experience across therapeutic protein and cell therapy product development, from R&D platform to technical stewardship of commercial manufacturing.
+
+## Skills
+
+**Biomanufacturing**: Cell therapy, biologics, process development, IND/BLA's, GMP manufacturing, bioinformatics (NGS, single cell multi-omics), process and cleaning validation, technology transfer, contract manufacturing, analytical method development
+
+**Data Science**: Classification, regression, clustering, design of experiments, statistical process control, model validation
+
+**Programming and Tools**: Python (Pandas, NumPy, scikit-learn, TensorFlow), R, Nextflow, SQL, GitHub, GitLab, AWS, Databricks, JMP, Nextflow Tower, SIMCA, Microsoft Azure
+
+---
 
 ## Principal Engineer, Data Science — Cell Therapy Development & Operations
 **AstraZeneca · Sep 2024 – Present · Greater Los Angeles, CA**
@@ -58,6 +67,8 @@ Below is a summary of roles and select responsibilities across biotech startups 
 
 ---
 
-## Process Engineering
+## Process Engineering Co-op
 **Johnson & Johnson · 2012 – 2014 · Cornelia, GA**
+
+- Led process engineering support for polymer raw material manufacturing supporting absorbable medical devices
 
