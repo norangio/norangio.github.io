@@ -8,6 +8,9 @@ nav_order: 1
 author_profile: true
 ---
 
+***Previously: Lilly · Poseida Therapeutics · Becton Dickinson · Resilience
+Current: AstraZeneca***
+
 With 12+ years of experience across biotech startups and global pharma, I specialize in data science, process development, manufacturing, and CMC strategy for biologics and cell therapies. I have led technical initiatives spanning from R&D to GMP clinical and commercial manufacturing, from process development through successful regulatory submissions, with deep experience translating complex data into regulatory-ready CMC strategy.
 
 I bring years of hands-on experience in computational and analytical pipeline development, including next-generation sequencing (NGS) data processing, QC, and analysis workflows supporting cell therapy R&D and manufacturing. This includes designing and maintaining scalable data pipelines, integrating assay, sequencing, and manufacturing data, and applying statistical and computational methods to drive process understanding, comparability assessments, and decision-making.
