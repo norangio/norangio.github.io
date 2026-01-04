@@ -5,7 +5,7 @@ permalink: /career/
 nav_order: 2
 ---
 
-Bioprocess engineer and data scientist with twelve years of experience across therapeutic protein and cell therapy product development, from R&D platform to technical stewardship of commercial manufacturing.
+Bioprocess engineer and data scientist with twelve years of experience across therapeutic protein and cell therapy product development and manufacturing, from R&D platform development to technical stewardship of commercial manufacturing.
 
 ## Skills
 
@@ -34,6 +34,7 @@ Bioprocess engineer and data scientist with twelve years of experience across th
 
 - Led a cross-functional R&D team as Product Owner and Data Scientist for NGS assay development supporting CAR T-cell manufacturing.
 - Spearheaded single-cell NGS characterization assay development focused on features tied to clinical efficacy.
+- Developed NGS-based rapid sterility assay for cell therapy manufacturing, reducing detection time compared to traditional compendial methods.
 - Contributed to regulatory strategy for NGS assays and participated in FDA interactions.
 - Performed bulk and single-cell NGS analysis using R and Python; developed cloud-based bioinformatics pipelines (Nextflow, AWS).
 - Drove product development processes and operational improvements in a startup environment.
@@ -70,5 +71,5 @@ Bioprocess engineer and data scientist with twelve years of experience across th
 ## Process Engineering Co-op
 **Johnson & Johnson · 2012 – 2014 · Cornelia, GA**
 
-- Led process engineering support for polymer raw material manufacturing supporting absorbable medical devices
+- Led process engineering support for polymer raw materials used in absorbable medical devices
 
